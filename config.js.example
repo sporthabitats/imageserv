@@ -1,0 +1,10 @@
+var config = {}
+
+
+config.s3 = {
+    key: '<api-key-here>'
+  , secret: '<secret-here>'
+  , bucket: 'learnboost'
+}
+
+module.exports = config;
