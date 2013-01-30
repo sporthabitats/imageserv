@@ -7,6 +7,9 @@ lib-cov
 *.pid
 *.gz
 
+
+node_modules
+config.js
 pids
 logs
 results
